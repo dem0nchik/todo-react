@@ -1,0 +1,16 @@
+.addtodo {
+  padding-top: 30px;
+}
+
+.addtodo input {
+  padding: 3px;
+  width: 40%;
+}
+
+.addtodo button {
+  padding: 5px;
+  border: 1px solid #555;
+  color: #fff;
+  background-color: #1c1;
+  margin-left: 20px;
+}

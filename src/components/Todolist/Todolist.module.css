@@ -1,0 +1,20 @@
+.todo_wrapper {
+  padding: 15px;
+  background: rgba(15,15,15,.925);
+  color: #fff;
+  width: 75%;
+  margin: auto;
+}
+
+.list label {
+  display: block;
+  box-sizing: border-box;
+}
+
+.list {
+  padding-top: 15px;
+}
+
+.list label{
+  padding-top: 10px;
+}
