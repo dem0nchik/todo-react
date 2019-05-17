@@ -4,16 +4,6 @@ const initialState =
       id: 1,
       text: "Прочитать книгу",
       isComplete: false
-      },
-      {
-      id: 2,
-      text: "Купить книгу",
-      isComplete: false
-      },
-      {
-      id: 3,
-      text: "Купить еды",
-      isComplete: false
       }
 ]
 
