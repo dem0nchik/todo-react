@@ -1,0 +1,10 @@
+.icon {
+    font-size: 15px;
+    color: red;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.icon:hover{
+    color: crimson;
+}

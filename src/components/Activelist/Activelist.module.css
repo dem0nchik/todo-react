@@ -1,0 +1,29 @@
+.category {
+  background-color: rgb(85, 85, 64);
+  width: 100px;
+  margin-top: 10px;
+}
+
+.category p {
+  margin: 0 auto;
+  padding: 10px;
+}
+.category p:hover {
+  background-color: #995;
+  cursor: pointer;
+}
+.title span {
+  color: #bbb;
+  padding: 3px;
+}
+.title span:hover {
+  color: #fff;
+  border-radius: 50%;
+  background-color: #999;
+}
+.title{
+  width: 80px;
+}
+.title:hover{
+  cursor: pointer;
+}
